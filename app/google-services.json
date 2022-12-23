@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "443531482355",
+    "project_id": "medicalrecordyoseph",
+    "storage_bucket": "medicalrecordyoseph.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443531482355:android:7b5139b5e32ff13d5dd386",
+        "android_client_info": {
+          "package_name": "com.example.medicalrecordyoseph"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "443531482355-26vcit8ntmp0r9mi2ujo8ph4gh6sv7uj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLCQmrVT-njW7MbRfI40Iyph5Eu4fQa5M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "443531482355-26vcit8ntmp0r9mi2ujo8ph4gh6sv7uj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
